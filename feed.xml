@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Coding, Cricket, Trading, Random thoughts</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jun 2016 17:07:02 -0700</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 17:07:02 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;Welcome - My journey to becoming a Disciplined Trader&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading my first post! Just to introduce myself: In 2006 I graduated from University with a degree in Computer science and found a job at a large corporation. Pretty soon I realised that this is not my scene. Whilst I enjoyed some parts of the job, I really despised the corporate culture - climbing the ladder, dealing with office politics etc. I could go and on. So I started thinking very hard about what I wanted to do and came to the realisation that I wanted to work for myself or start a technology company. The problem - I had no decent or even semi-decent ideas.&lt;/p&gt;
+
+&lt;p&gt;In the meanwhile, I would really enjoy watching sports and having an odd bet from time to time. In January 2015, I stumbled upon Betfair cricket markets and was stunned by the amount of money exchanged over a game of cricket. After doing some research I found that there were quite a few ‘Cricket Traders’ who made a comfortable living doing this. I really love cricket and betting - I wanted a piece of the action.&lt;/p&gt;
+
+&lt;p&gt;I convinced myself that this would be quite easy. After all, I had grown up playing cricket and I watched a lot of it on TV. But how wrong was I? In the following 12 months, I found that if I backed the batting team a wicket would fall, if I sensed a wicket I was too scared to place a bet; I would chase losing positions by betting more money. The market was contrived to take my money!&lt;/p&gt;
+
+&lt;p&gt;Eventually I read ‘Trading in the Zone’ by Mark Douglas. This is the best book I have ever read. The book resonated with me so much that I read it twice and then a third time. I have tried to internalize Mark’s concepts.&lt;/p&gt;
+
+&lt;p&gt;In April 2016, I quit my job and I am now trying to become a disciplined trader. I will give myself 3 years to crack this. This blog will document my journey from a novice trader to hopefully a successful one.&lt;/p&gt;
+
+&lt;p&gt;I took my first step towards becoming a disciplined trader by defining 2 edges which I have tested over the last two months. Here are the results so far:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Edge&lt;/th&gt;
+      &lt;th&gt;Num of matches&lt;/th&gt;
+      &lt;th&gt;Profit so far&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Edge 1&lt;/td&gt;
+      &lt;td&gt;18&lt;/td&gt;
+      &lt;td&gt;2.68&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Edge 2&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;0.04&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 28 Jun 2016 10:06:25 -0700</pubDate>
+        <link>http://localhost:4000/2016/06/28/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/06/28/welcome/</guid>
+        
+        
+        <category>introduction</category>
+        
+      </item>
+    
+  </channel>
+</rss>
