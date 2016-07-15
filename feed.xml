@@ -5,9 +5,60 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jun 2016 06:51:49 -0700</pubDate>
-    <lastBuildDate>Wed, 29 Jun 2016 06:51:49 -0700</lastBuildDate>
+    <pubDate>Fri, 15 Jul 2016 10:46:15 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Jul 2016 10:46:15 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Caribbean Premier League</title>
+        <description>&lt;p&gt;My first step towards becoming a consistent trader involved defining my edges. Most readers of this blog already know what an ‘edge’ is but for the non-traders: an edge is just a condition which indicates a higher probability of something occuring. When I see the condition I place my bet. Here are the results of my 4 defined edges so far which I have been testing during the T20 blast and CPL:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Edge&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Num of matches&lt;/strong&gt;&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;&lt;strong&gt;Returns&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Edge 1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;256%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Edge 2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-93%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Edge 3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-86%&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Edge 4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-71%&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;So to be clear: £10 trades on Edge 2 would have resulted in a loss of £9.3 after 10 matches.&lt;/p&gt;
+
+&lt;p&gt;I will test each edge for 20 matches before deciding whether it is profitable. The good news is that Edge 1 seems promising. It is quite rudimentary at this stage and I have a few ideas on how to improve it. I am currently trading with only £2 bets but I will soon start increasing my bet amounts. The advantage of defining my edges and trading rigidly with them is that I am no longer stressed. I am able to take a loss just as easily as a win. You might argue that I have no right to be stressed when Im only staking £2! But you get the idea. Edges 2, 3 and 4 are not doing well yet but there is still a long way to go before I judge them&lt;/p&gt;
+
+&lt;p&gt;On another note, the CPL has taken a slight toll on me. I stay up trading late into the night, find it hard to sleep and then I dream about cricket in my sleep. While I enjoy cricket I certainly dont want to dream about it. So from next week, I will switch my focus to the West Indies v India test matches which are during far more reasonable hours.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jul 2016 10:06:25 -0700</pubDate>
+        <link>http://localhost:4000/2016/07/14/post-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/14/post-2/</guid>
+        
+        
+        <category>CPL</category>
+        
+      </item>
     
       <item>
         <title>Welcome - My journey to become a Consistent Trader</title>
