@@ -5,8 +5,8 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jul 2016 03:55:14 -0700</pubDate>
-    <lastBuildDate>Sat, 30 Jul 2016 03:55:14 -0700</lastBuildDate>
+    <pubDate>Sat, 30 Jul 2016 04:04:42 -0700</pubDate>
+    <lastBuildDate>Sat, 30 Jul 2016 04:04:42 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -43,9 +43,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://marquestrading.github.io/images/screenshot.png&quot; alt=&quot;Loss screenshot&quot; style=&quot;width: 800px;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 28 Jul 2016 17:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/07/28/first-testmatch/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/28/first-testmatch/</guid>
+        <pubDate>Fri, 29 Jul 2016 18:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/07/29/first-test-match/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/29/first-test-match/</guid>
         
         
         <category>test</category>
