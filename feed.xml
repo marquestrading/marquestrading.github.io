@@ -5,9 +5,45 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jul 2016 04:04:42 -0700</pubDate>
-    <lastBuildDate>Sat, 30 Jul 2016 04:04:42 -0700</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2016 11:02:49 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 11:02:49 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Second test - West Indies v India</title>
+        <description>&lt;p&gt;Wow. what an exciting test that was! And well done to the West Indies for making the series interesting. I needed a break after that. Here is my analysis of how I traded the test.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Positives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Preparation. Recently I read an interview with &lt;a href=&quot;https://en.wikipedia.org/wiki/Bruce_Kovner&quot;&gt;Bruce Kovner&lt;/a&gt; who said something that has stuck with me: &lt;em&gt;“One of the jobs of a good trader is to imagine alternative scenarios. I try to form many different mental pictures of what the world should be like and wait for one of them to be confirmed. You keep trying them on one at a time. Inevitably, most of these pictures will turn out to be wrong - that is, only a few elements of the picture may prove correct. But then, all of a sudden, you will find that in one picture, nine out of ten elements click. That scenario then becomes your image of the world reality”&lt;/em&gt;. I now spend about 1 hour or so before the start of every day thinking of various scenarios and reasons for them to occur. As the play unfolds, I see a scenario crystallize and trade accordingly. For e.g. on Day 5 of the test, in one of my scenarios, I conjured up reasons for West Indies to save the test match (pitch slowing up, bowlers not looking in rhythm etc) and after an hour of play, it looked like West Indies had a good chance of saving the match. So I layed India when possible.&lt;/p&gt;
+
+&lt;p&gt;Risk Management. Most of my trades were 100-200 GBP stakes. And the maximum liability I had at one point was 250 GBP. On a few occasions I wanted to increase my stakes but I resisted temptation and consequently I was able to think with a clear head.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Improvements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Trading the rain. I want to learn how to trade the rain better. A significant portion of my winnings was due to trading the rain but I think I can improve. I will also lean more on my lovely wife to help me with this; she has a Masters in Meteorolgy.&lt;/p&gt;
+
+&lt;p&gt;No data-driven approach. I am currently trading on instinct. With 2020s I have defined very clear edges based on my database and I execute my trades using these edges. For test matches however, I have not defined any such edges. And I dont think this is most efficient way of trading. In the upcoming days, I will think of some approaches.&lt;/p&gt;
+
+&lt;p&gt;Overall I am very happy with my trading during the match. I prepared well and executed my trades without any stress. And to be honest, I think I got a little bit lucky too. Almost every trade I made went in my favour.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot2.png&quot; alt=&quot;Profit screenshot&quot; style=&quot;width: 800px;&quot; /&gt;
+&lt;strong&gt;Third test&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I will try to build on my trading from the second test. Given the amount of rain present over the next 5 days and the relatively flat pitch I will look to back the draw when possible. I also think West Indies would have gained a bit of confidence from the previous test and will look to build on that. However, I will wait and watch before making my moves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other things&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been coding a couple of things on the side - a bot, and a more data-driven approach to trading 2020s. I will write about them later.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jul 2016 18:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/07/29/second-test-westindies-india/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/07/29/second-test-westindies-india/</guid>
+        
+        
+        <category>test</category>
+        
+      </item>
     
       <item>
         <title>First test match</title>
