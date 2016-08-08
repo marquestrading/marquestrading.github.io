@@ -5,8 +5,8 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Aug 2016 11:09:42 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Aug 2016 11:09:42 -0700</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2016 11:11:20 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 11:11:20 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -38,9 +38,9 @@
 
 &lt;p&gt;Thanks for reading and have a good week!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 29 Jul 2016 18:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2016/07/29/second-test-westindies-india/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/07/29/second-test-westindies-india/</guid>
+        <pubDate>Sun, 07 Aug 2016 18:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/08/07/second-test-westindies-india/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/08/07/second-test-westindies-india/</guid>
         
         
         <category>test</category>
