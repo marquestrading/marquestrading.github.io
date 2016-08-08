@@ -5,8 +5,8 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Aug 2016 11:02:49 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Aug 2016 11:02:49 -0700</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2016 11:07:14 -0700</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2016 11:07:14 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -35,6 +35,8 @@
 &lt;p&gt;&lt;strong&gt;Other things&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I have been coding a couple of things on the side - a bot, and a more data-driven approach to trading 2020s. I will write about them later.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading a have a good week!&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Jul 2016 18:00:00 -0700</pubDate>
         <link>http://localhost:4000/2016/07/29/second-test-westindies-india/</link>
