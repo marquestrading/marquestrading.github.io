@@ -5,9 +5,55 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Aug 2016 12:38:54 -0700</pubDate>
-    <lastBuildDate>Mon, 08 Aug 2016 12:38:54 -0700</lastBuildDate>
+    <pubDate>Fri, 02 Sep 2016 06:28:53 -0700</pubDate>
+    <lastBuildDate>Fri, 02 Sep 2016 06:28:53 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Have I found my niche?</title>
+        <description>&lt;p&gt;For over a year I traded 2020s on and off without much success. I often felt like a deer in headlights, waiting to get squashed by the market. In the last month I have traded test matches and absolutely loved it. The markets move a lot slower and I find that I have a lot of time to take stock and make my moves.&lt;/p&gt;
+
+&lt;p&gt;So after trading five test matches this month, here is my profit for August.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot3.png&quot; alt=&quot;August screenshot&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am very happy with my results but my smugness quickly vanishes when I realise that I have earnt the equivalent of ~1200GBP/160 hours = 7.5 GBP/hour, slightly above the UK minimum wage. I have only traded six test matches in total so its too soon to draw any conclusions about my ability to trade them. Nevertheless this month’s results have encouraged me to trade more test matches in the future with higher stakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mental Accounts (Narrow Framing)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have made a profit in each of the last five test matches. While I am quite happy about this, I am not sure whether I am trading efficiently. Recently I read the book ‘Thinking, Fast and Slow’ by Daniel Kahneman (I highly recommend this book) who talks about &lt;a href=&quot;https://en.wikipedia.org/wiki/Mental_accounting&quot;&gt;mental accounting&lt;/a&gt; - an irrational form of decision making used by people to keep score. &lt;em&gt;“We hold our money in different accounts, which are sometimes physical, sometimes only mental. We have spending money, general savings, earmarked savings for our children’s education or for medical emergencies”&lt;/em&gt;. The problem with holding mental accounts is that it leads us to make irrational decisions, &lt;em&gt;“for instance simultaneously putting money in a savings account and maintaining debt on credit cards”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Surprisingly the problem of mental accounting can affect even professional stock investors who manage portfolios of stocks, leading them to make irrational decisions. Sometimes investors set up a mental account for each share that they buy and they want to close every account as a gain. The rational approach would be &lt;em&gt;“to have a comprehensive view of the portfolio and sell the stock that is least likely to do well in the future, without considering whether it is a winner or a loser”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have noticed that I fall for the same psychological effect. In the last month, I tried to close every test match as a winner.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;On two occassions I got into fantastic positions only to sell my position too soon and cash out my winners for smaller amounts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;In all the test matches, I have built up a nice green book until Day 3 and then I find myself trading with reduced stakes so as to not convert my nice profit into a loss.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ultimately the only thing that matters is my account balance. Moving forward I hope to trade efficiently (or rationally) than worry about whether I close a test match as a winner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Next month&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In between the test matches, I have spent time developing a bot based on patterns I have observed in the markets. There is a lull in my cricket calendar until the next test match (late September). I will test my bot in the next 2 weeks and update you with my results.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading and have a good weekend!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2016 18:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/09/01/august-results/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/09/01/august-results/</guid>
+        
+        
+        <category>test</category>
+        
+        <category>august</category>
+        
+      </item>
     
       <item>
         <title>Second test - West Indies v India</title>
