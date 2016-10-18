@@ -5,9 +5,67 @@
     <description>Coding, Cricket, Trading, Random thoughts</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Sep 2016 06:28:53 -0700</pubDate>
-    <lastBuildDate>Fri, 02 Sep 2016 06:28:53 -0700</lastBuildDate>
+    <pubDate>Tue, 18 Oct 2016 08:53:17 -0700</pubDate>
+    <lastBuildDate>Tue, 18 Oct 2016 08:53:17 -0700</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>September and Cricket Bot Results</title>
+        <description>&lt;p&gt;This blog is not dead (yet) and neither am I! Apologies for the lack of updates but I was away on a holiday, returned last week and then got stuck straight into trading the Pakistan v West Indies test match. My September was broken down as follows:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Writing a cricket bot (more on this below)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trading the first test between India and NZ&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Away on a holiday for a friend’s wedding&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Firstly, the Profit/Loss screenshot for September out of the way:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot4.png&quot; alt=&quot;September screenshot&quot; style=&quot;width: 400px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My Cricket Bot&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;September was a very quiet month in terms of cricket trading so I happily spent time developing a cricket bot and testing it in the TNPL, Karnataka Premier League etc. My bot runs in-play and is based on a pattern I have noticed repeatedly in the cricket markets. Here is a graph showing my results so far (including October):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/screenshot5.png&quot; alt=&quot;Bot profit loss&quot; style=&quot;width: 900px;&quot; align=&quot;left&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I am using iterative development, which means the emphasis is on coding and testing in short cycles. Overall I am relatively pleased with the results but I have a few concerns/thoughts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Long term:&lt;/strong&gt; As you can see above, my bot has traded 75 markets. I will wait until my bot operates in 200 markets before declaring it a success (or failure).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bot stakes:&lt;/strong&gt; I am trying to work out the stake size which would maximise my profit. Unfortunately this will take a little bit of time. I am currently using 10 GBP stakes. I have read about the Kelly Criterion in this &lt;a href=&quot;http://www.betfairprotrader.co.uk/2012/01/kelly-criterion.html&quot;&gt;excellent post&lt;/a&gt; but this is not applicable in my case. My bot operates in-play and my worry is that the probability of my edge is dependant on the stake; a large amount could spook the market and kill my edge. So I have to start small and increase the amount slowly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shitty internet:&lt;/strong&gt; I didnt realise how bad my internet connection is until I started running my bot full-time. The connection drops often and it wrecks havoc with my VPN and subsequently my bot. If my bot makes consistent profit, I might consider moving it to a VPS with uninterrupted internet access.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Betfair API outages:&lt;/strong&gt; These have robbed me of ~8 GBP so far. I am trying to make my bot as robust as possible but I guess I’ll just have to put up with outages when they happen.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Going forward&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I would really like to make decent consistent profit by the end of this winter. There is a lot of cricket worldwide and I would like to trade as many markets as I can. To facilitate this, Im going to change my sleeping pattern: sleep in the afternoon and trade through the night. This could ruin my social life (and my marriage) but I never thought trading was going to be easy…&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Oct 2016 18:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2016/10/17/september-results/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/17/september-results/</guid>
+        
+        
+        <category>bot</category>
+        
+        <category>september</category>
+        
+      </item>
     
       <item>
         <title>Have I found my niche?</title>

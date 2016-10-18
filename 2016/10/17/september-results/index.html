@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <title>September and Cricket Bot Results</title>
+  <meta name="viewport" content="width=device-width">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <link href="/assets/css/style.css" rel="stylesheet" />
+  <link href="/assets/css/colors-dark.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+
+
+  <header id="header">
+    <h1><a href="/"><i class="icon-sun"></i> Marques</a></h1>
+    <p>Coding, Cricket, Trading, Random thoughts</p>
+  </header>
+
+
+
+  <div id="page">
+
+
+
+    <div id="sidebar">
+      <nav>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/archives">Archive</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="http://twitter.com/marques_de_camp">Twitter</a></li>
+          <li><a href="/feed.xml">RSS Feed</a></li>
+        </ul>
+      </nav>
+    </div>
+
+
+
+    <div id="content">
+      <article class="post">
+
+	
+		<h1><a href="/2016/10/17/september-results/">September and Cricket Bot Results</a></h1>
+	
+
+	<div class="post-content"><p>This blog is not dead (yet) and neither am I! Apologies for the lack of updates but I was away on a holiday, returned last week and then got stuck straight into trading the Pakistan v West Indies test match. My September was broken down as follows:</p>
+
+<ul>
+  <li>
+    <p>Writing a cricket bot (more on this below)</p>
+  </li>
+  <li>
+    <p>Trading the first test between India and NZ</p>
+  </li>
+  <li>
+    <p>Away on a holiday for a friend’s wedding</p>
+  </li>
+</ul>
+
+<p>Firstly, the Profit/Loss screenshot for September out of the way:</p>
+
+<p><img src="/images/screenshot4.png" alt="September screenshot" style="width: 400px;" /></p>
+
+<p><strong>My Cricket Bot</strong></p>
+
+<p>September was a very quiet month in terms of cricket trading so I happily spent time developing a cricket bot and testing it in the TNPL, Karnataka Premier League etc. My bot runs in-play and is based on a pattern I have noticed repeatedly in the cricket markets. Here is a graph showing my results so far (including October):</p>
+
+<p><img src="/images/screenshot5.png" alt="Bot profit loss" style="width: 900px;" align="left" /></p>
+
+<p>I am using iterative development, which means the emphasis is on coding and testing in short cycles. Overall I am relatively pleased with the results but I have a few concerns/thoughts:</p>
+
+<ul>
+  <li>
+    <p><strong>Long term:</strong> As you can see above, my bot has traded 75 markets. I will wait until my bot operates in 200 markets before declaring it a success (or failure).</p>
+  </li>
+  <li>
+    <p><strong>Bot stakes:</strong> I am trying to work out the stake size which would maximise my profit. Unfortunately this will take a little bit of time. I am currently using 10 GBP stakes. I have read about the Kelly Criterion in this <a href="http://www.betfairprotrader.co.uk/2012/01/kelly-criterion.html">excellent post</a> but this is not applicable in my case. My bot operates in-play and my worry is that the probability of my edge is dependant on the stake; a large amount could spook the market and kill my edge. So I have to start small and increase the amount slowly.</p>
+  </li>
+  <li>
+    <p><strong>Shitty internet:</strong> I didnt realise how bad my internet connection is until I started running my bot full-time. The connection drops often and it wrecks havoc with my VPN and subsequently my bot. If my bot makes consistent profit, I might consider moving it to a VPS with uninterrupted internet access.</p>
+  </li>
+  <li>
+    <p><strong>Betfair API outages:</strong> These have robbed me of ~8 GBP so far. I am trying to make my bot as robust as possible but I guess I’ll just have to put up with outages when they happen.</p>
+  </li>
+</ul>
+
+<p><strong>Going forward</strong></p>
+
+<p>I would really like to make decent consistent profit by the end of this winter. There is a lot of cricket worldwide and I would like to trade as many markets as I can. To facilitate this, Im going to change my sleeping pattern: sleep in the afternoon and trade through the night. This could ruin my social life (and my marriage) but I never thought trading was going to be easy…</p>
+</div>
+
+	<p class="meta">Posted on <span class="postdate">Oct 17, 2016</span></p>
+
+</article>
+    </div>
+
+
+
+  </div>
+
+
+
+  <footer id="footer">
+    <p class="copyright">Copyright &copy; 2016 Marques. Powered by <a href="http://jekyllrb.com">Jekyll</a><p>
+  </footer>
+
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="/assets/js/jquery.mobilemenu.min.js"></script>
+
+  <script>
+    $(document).ready(function(){
+      $('#sidebar nav ul').mobileMenu({'topOptionText': 'Menu', 'prependTo': '#sidebar nav'});
+    });
+  </script>
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-80310656-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>
